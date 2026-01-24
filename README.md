@@ -36,7 +36,9 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 
 <table>
 <tr>
-<td width="55%" valign="top">
+
+<!-- COLUMNA 1: SKILLS -->
+<td width="40%" valign="top">
 
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
@@ -55,7 +57,8 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 
 </td>
 
-<td width="45%" valign="top">
+<!-- COLUMNA 2: REPOS -->
+<td width="35%" valign="top" align="center">
 
 <h4>Featured Repositories</h4>
 
@@ -71,6 +74,27 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 
 </td>
 
+<!-- COLUMNA 3: EXTRA / CUSTOM -->
+<td width="25%" valign="top">
+
+<h4>Profile Highlights</h4>
+
+<ul>
+  <li>Backend-focused developer</li>
+  <li>Experience with Laravel & MySQL</li>
+  <li>Strong teamwork skills</li>
+  <li>Deadline-oriented</li>
+  <li>Continuous learner</li>
+</ul>
+
+<h4>Currently Learning</h4>
+<ul>
+  <li>MERN Stack</li>
+  <li>Laravel 12</li>
+  <li>Software architecture</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
-
