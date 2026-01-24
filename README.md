@@ -7,12 +7,8 @@
 
 <p align="center">
   Bogotá, Colombia ·
-<a href="mailto:duvanfelipetrujillollanos@gmail.com">
   <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com" />
-</a>
-<a href="https://linkedin.com/in/duvan-trujillo-fullstack">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white" />
-</a>
 </p>
 
 ---
