@@ -32,32 +32,45 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 - **Laravel 12** and **Filament**  
 - Software design patterns and best practices  
 
----
+---## My Skills Include
 
-## My Skills Include
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<h4> Languages </h4>
-<span> 
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php">
-</span>
+<h4>Frameworks</h4>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react" />
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react">
-</span>
+<h4>Databases</h4>
+<img src="https://skillicons.dev/icons?i=mongo,mysql" />
 
-<h4> Databases </h4>
-<span>
-    <img src="https://skillicons.dev/icons?i=mongo,mysql">
-</span>
+<h4>IDE</h4>
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-<h4> IDE </h4>
-<span>
- <img src="https://skillicons.dev/icons?i=vscode">
+<h4>Other Tools and Technologies</h4>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker">
+</td>
 
-</span>
+<td width="45%" valign="top">
+
+<h4>Featured Repositories</h4>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight&card_width=1000" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight&card_width=1000" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
