@@ -81,8 +81,8 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 <ul>
   <li>Junior Software Developer with hands-on experience in backend development for institutional systems</li>
   <li>Internship at <b>SENA</b>, contributing to a large-scale system with a highly relational database</li>
-  <li>Designed and implemented backend modules for attendance management and permission requests within SICEFA</li>
-  <li>Implemented business logic, data validations, and role-based access control aligned with institutional policies</li>
+  <li>Development of backend sections for <i>Attendance Registration</i> and <i>Permission Requests</i> within an existing SICEFA module</li>
+  <li>Implementation of business logic, date-based validations, and role-based access control for multiple user roles</li>
 </ul>
 
 </td>
@@ -93,6 +93,18 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 ---
 
 ## 🧩 SICEFA Case Study
+**Role:** Junior Software Developer (Internship)  
+**Institution:** SENA – Centro de Formación La Angostura  
+
+Worked within an existing institutional module, developing and enhancing backend sections for attendance registration and permission requests, supporting multiple user roles and workflows.
+
+**My Contributions:**
+- Development of attendance registration and permission request sections within an existing institutional module SIGAC
+- Implementation of role-specific views and workflows based on requirements defined by Academic Coordination
+- Creation of backend logic to support multiple user roles, each with distinct permissions and responsibilities
+- Enforcement of date-based, schedule-based, and role-based validations
+- Integration with a complex relational database and existing institutional business rules
+- Backend handling of multi-state entities and evidence management according to defined workflows
 
 ### Attendance Management Module
 
