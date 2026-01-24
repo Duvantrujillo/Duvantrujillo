@@ -32,7 +32,7 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 - **Laravel 12** and **Filament**  
 - Software design patterns and best practices  
 
----## My Skills Include
+## My Skills Include
 
 <table>
 <tr>
