@@ -62,15 +62,18 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 
 <h4>Featured Repositories</h4>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight&card_width=1000" />
+<!-- E-commerce Project -->
+<a href="https://github.com/Duvantrujillo/Ecomers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvantrujillo&repo=Ecomers&theme=material-palenight&card_width=1000" />
 </a>
 
-<br><br>
+<br>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight&card_width=1000" />
+<!-- Unidad Acuícola Project -->
+<a href="https://github.com/Duvantrujillo/Unidad-Acuicola">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duvantrujillo&repo=Unidad-Acuicola&theme=material-palenight&card_width=1000" />
 </a>
+
 
 </td>
 
