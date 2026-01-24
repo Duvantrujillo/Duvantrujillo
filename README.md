@@ -38,29 +38,6 @@ Me caracterizo por ser una persona **disciplinada, orientada a resultados y en c
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** PHP, JavaScript (basics)  
-- **Frameworks:** Laravel (8–12)  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub  
-- **Modeling:** UML  
-
----
-
-## 🤝 Collaboration
-- Open to collaborating on **open source projects** and **backend-oriented web solutions**.
-
----
-
-## 📚 Personal Interests
-- Reading and continuous learning as part of my professional growth.
-
----
-
-## ✉️ Contact
-- 📧 Email: <a href="mailto:duvanfelipetrujillollanos@gmail.com">duvanfelipetrujillollanos@gmail.com</a>
-
-
 ## My Skills Include
 
 <h4> Languages </h4>
