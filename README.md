@@ -17,10 +17,9 @@
 
 ## 👨‍💻 About Me
 
-Hello, I’m Duvan Felipe Trujillo Llanos, a Junior Software Developer with a focus on backend development and a foundation in full stack technologies. I have formal training as a Software Analysis and Development Technologist and hands-on experience in real-world and personal projects. I have worked on requirements analysis, database design, and the development of features using Laravel, PHP, and MySQL.
+Hello, I’m Duvan Felipe Trujillo Llanos, a Junior Software Developer with a strong focus on backend development and a solid foundation in full stack technologies. I hold formal training as a Software Analysis and Development Technologist and have hands-on experience through real-world and personal projects. My work includes requirements analysis, database design, and feature development using Laravel, PHP, and MySQL.
 
-I am characterized by being disciplined, results-oriented, and committed to continuous learning, with a strong interest in building scalable, maintainable, and well-structured solutions.
----
+I am a results-oriented developer with strong teamwork and collaboration skills, accustomed to working in structured environments and delivering tasks within estimated timelines. I approach my work with responsibility, consistency, and attention to detail, contributing to the development of scalable, maintainable, and well-structured software solutions.
 
 ## 🎯 Areas of Interest
 - Backend development  
