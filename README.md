@@ -78,20 +78,11 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 <td width="25%" valign="top">
 
 <h4>Profile Highlights</h4>
-
 <ul>
-  <li>Backend-focused developer</li>
-  <li>Experience with Laravel & MySQL</li>
-  <li>Strong teamwork skills</li>
-  <li>Deadline-oriented</li>
-  <li>Continuous learner</li>
-</ul>
-
-<h4>Currently Learning</h4>
-<ul>
-  <li>MERN Stack</li>
-  <li>Laravel 12</li>
-  <li>Software architecture</li>
+  <li>Junior Software Developer with hands-on experience in backend development for institutional systems</li>
+  <li>Internship at <b>SENA</b>, contributing to a large-scale system with a highly relational database</li>
+  <li>Designed and implemented backend modules for attendance management and permission requests within SICEFA</li>
+  <li>Implemented business logic, data validations, and role-based access control aligned with institutional policies</li>
 </ul>
 
 </td>
