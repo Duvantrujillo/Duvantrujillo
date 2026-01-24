@@ -89,3 +89,42 @@ I am a results-oriented developer with strong teamwork and collaboration skills,
 
 </tr>
 </table>
+
+---
+
+## 🧩 SICEFA Case Study
+
+### Attendance Management Module
+
+<table>
+<tr>
+  <td align="center">
+    <img src="assets/Sicefa/attendance%20record/cap1.png" width="220" />
+  </td>
+  <td align="center">
+    <img src="assets/Sicefa/attendance%20record/Cap2.png" width="220" />
+  </td>
+  <td align="center">
+    <img src="assets/Sicefa/attendance%20record/Cap%203.png" width="220" />
+  </td>
+</tr>
+</table>
+
+### Permission Requests Module
+
+<table>
+<tr>
+  <td align="center">
+    <img src="assets/Sicefa/permission%20request/Cap%201.png" width="220" />
+  </td>
+  <td align="center">
+    <img src="assets/Sicefa/permission%20request/cap%202.png" width="220" />
+  </td>
+  <td align="center">
+    <img src="assets/Sicefa/permission%20request/cap%203.png" width="220" />
+  </td>
+</tr>
+</table>
+
+🔒 All personal data shown in the screenshots has been anonymized for privacy reasons.
+
