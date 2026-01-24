@@ -1,17 +1,64 @@
-<h1 align="center">Hi , I'm Duvan Trujillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW54NmZhZWV5bGtkejZpZDNveGU4ZzBkdnplenllN2Vtb2IxYnZ4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
+<h1 align="center">
+  Hi, I'm Duvan Trujillo 👋
+</h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h3 align="center">
+  Backend-Focused Software Developer | Laravel · PHP · MySQL
+</h3>
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+<p align="center">
+  Bogotá, Colombia ·
+  <a href="mailto:duvanfelipetrujillollanos@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/duvan-trujillo-fullstack">LinkedIn</a> ·
+  <a href="https://github.com/duvantrujillo">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hola, soy **Duvan Felipe Trujillo Llanos**, **Desarrollador de Software Junior** con enfoque en **backend** y bases en **full stack**. Actualmente curso el programa de **Tecnólogo en Análisis y Desarrollo de Software** y cuento con experiencia práctica en proyectos reales y personales, participando en el análisis de requerimientos, diseño de bases de datos y desarrollo de funcionalidades utilizando **Laravel, PHP y MySQL**.
+
+Me caracterizo por ser una persona **disciplinada, orientada a resultados y en constante aprendizaje**, con interés en construir soluciones **escalables, mantenibles y bien estructuradas**.
+
+---
+
+## 🎯 Areas of Interest
+- Backend development  
+- Database design and modeling  
+- Scalable web applications  
+- Software architecture  
+
+---
+
+## 📘 Currently Learning
+- **MERN Stack** (MongoDB, Express, React, Node.js)  
+- **Laravel 12** and **Filament**  
+- Software design patterns and best practices  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** PHP, JavaScript (basics)  
+- **Frameworks:** Laravel (8–12)  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub  
+- **Modeling:** UML  
+
+---
+
+## 🤝 Collaboration
+- Open to collaborating on **open source projects** and **backend-oriented web solutions**.
+
+---
+
+## 📚 Personal Interests
+- Reading and continuous learning as part of my professional growth.
+
+---
+
+## ✉️ Contact
+- 📧 Email: <a href="mailto:duvanfelipetrujillollanos@gmail.com">duvanfelipetrujillollanos@gmail.com</a>
 
 
 ## My Skills Include
