@@ -108,7 +108,7 @@ Worked within an existing institutional module, developing and enhancing backend
 - Enforcement of date-based, schedule-based, and role-based validations
 - Integration with a complex relational database and existing institutional business rules
 - Backend handling of multi-state entities and evidence management according to defined workflows
-- Contribution to complete project documentation, including Software Requirements Specification (SRS), user manuals, and supporting documentation for each developed section, ensuring clarity, traceability, and alignment with functional requirements
+- Design and elaboration of technical documentation, including process flow diagrams, Entity-Relationship (ER) diagrams, data dictionary, and supporting artifacts as part of the Software Requirements Specification (SRS) and technical documentation for each implemented section
 
 ### Attendance Management Module
 
